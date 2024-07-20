@@ -1,0 +1,11 @@
+[package]
+name = "ffsimple"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+
+[[bin]]
+name = "ffsimple"
+path = "src/bin/ffsimple.rs"
